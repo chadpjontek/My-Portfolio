@@ -46,6 +46,6 @@
     "react-aria-modal": "^3.1.0",
     "react-dom": "^16.11.0",
     "react-spring": "^7.2.11",
-    "sharp": "^0.23.2"
+    "sharp": "^0.30.5"
   }
 }
